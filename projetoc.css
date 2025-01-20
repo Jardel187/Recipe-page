@@ -1,0 +1,144 @@
+@charset "UTF-8" ;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sevillana&family=Sofadi+One&family=Young+Serif&family=Yuji+Mai&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color:#F3E5D8;
+    padding-top: 30px;
+}
+
+main > img {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+main {
+    background-color: white;
+    width: 640px;
+    margin: auto;
+    border: 50px;
+    text-decoration: 10px;
+    border-radius: 12px;
+    
+    
+    
+}
+
+ article   {
+    padding-left: 20px;
+
+}
+
+article > h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    
+}
+
+
+
+article > p {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article > ul#primeiro  {
+    background-color: #FFF7FC;
+    color: #6E6561;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+div#teste {
+    background-color:  #FFF7FC;
+    padding: 20px;
+    text-align: justify;
+    width: 540px;
+    border-radius: 12px;
+    
+}
+
+div#teste  p {
+    margin: 6px;
+    color: #988E8D;
+}
+
+div#teste h3 {
+    color: #884839;
+}
+
+div#ingredients {
+    
+    width: 540px;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+div#ingredients h2 {
+    color: #734A41;
+    margin-bottom: 5px;
+    
+}
+
+div#ingredients p {
+    padding: 6px;
+}
+
+div#instrucoes {
+    
+    width: 580px;
+} 
+
+div#instrucoes h2 {
+    color: #734A41;
+    padding: 15px;
+}
+
+div#instrucoes p {
+    padding: 6px;
+    color: black;
+}
+
+div#instrucoes strong {
+    color: #734A41;
+    
+}
+
+div#instrucoes li {
+    color: #734a41;
+}
+
+div#Nutrition h3 {
+    color: #734A41;
+    margin-bottom: 15px;
+}
+
+div#Nutrition p {
+    margin-bottom: 20px;
+}
+
+ table {
+    position: relative;
+    width: 540px;
+    border-collapse: collapse;
+   
+}
+
+td {
+    border: 1px none black;
+    padding: 6px;
+}
+
+
+  
+
+ 
